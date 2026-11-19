@@ -1,1 +1,2 @@
 # DA_Project_SQL-PowerBI-Employee-Data
+This end-to-end HR and workforce analytics project analyzes employee data to address key organizational and business requirements. Using SQL for data cleaning, transformation, and querying (project.sql), alongside Power BI for data modeling and interactive dashboarding (project.pbix), the workflow turns raw employee records into clear visual insights. The goal is to help stakeholders track workforce metrics, uncover departmental trends, and make data-driven HR decisions.
